@@ -25,6 +25,12 @@
             android:layout_width="wrap_content"
             android:text="Activate German language"
             android:layout_height="wrap_content"/>
+        <Button
+            android:id="@+id/fontScale"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:text="Increase font scale"
+            android:layout_height="wrap_content"/>
     </androidx.appcompat.widget.LinearLayoutCompat>
 
 
